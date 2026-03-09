@@ -1,4 +1,8 @@
 #include <iostream>
 using namespace std;
 
-float Berat, Tinggi; 
+float Berat, Tinggi;
+
+void inputData(){
+    
+}
