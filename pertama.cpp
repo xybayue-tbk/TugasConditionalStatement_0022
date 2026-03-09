@@ -12,3 +12,8 @@ void inputData(){
     cin >> Tinggi;
 
 }
+
+float hitungBMI (float x, float y){
+    return x / (y * y);
+
+}
