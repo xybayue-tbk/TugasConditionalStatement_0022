@@ -17,3 +17,7 @@ float hitungBMI (float x, float y){
     return x / (y * y);
 
 }
+
+string statusBMI (float BMI){
+    
+}
