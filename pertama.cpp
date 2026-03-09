@@ -29,3 +29,7 @@ string statusBMI (float BMI){
         return "Obesitas!";
         
 }
+
+int main(){
+    return 0;
+}
